@@ -7,7 +7,7 @@ Based off the [Northem Light Colors](https://github.com/arcticicestudio/northem-
 ### macOS Terminal.app
 - Clone this repo, or download the `Northem Light.terminal` file.
 - Launch `Terminal.app`
-- Open Settings, or press `cmd-,`
+- Open Settings, or press `⌘-,`
 - On the Profiles tab, click the gear on the bottom left
 - Select Import, and import `Northem Light.terminal`
 
