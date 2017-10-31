@@ -17,3 +17,6 @@ Based off the [Northem Light Colors](https://github.com/arcticicestudio/northem-
   - Click Atom on the Menu Bar
   - Select 'Stylesheet...'
 - Paste the styles at the end of the page
+
+### Slack
+Sidebar theme: `#F8F8FA,#F8F8FA,#CAD1D9,#FFFFFF,#FFFFFF,#383F45,#60D156,#FF8669`
